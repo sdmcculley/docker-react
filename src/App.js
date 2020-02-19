@@ -11,8 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          I was changed on the Feature branch<br>
-          And, I was deployed through travis ci!
+          I was deployed with Travis
         </p>
       </div>
     );
